@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PagedDataSet</name>
+    </assembly>
+    <members>
+        <member name="T:PagedDataSet.PagedDataSet">
+            <summary>
+            convert dataset to paged dataset
+            </summary>
+        </member>
+        <member name="M:PagedDataSet.PagedDataSet.GetPage(System.Data.DataSet,System.Int32,System.Nullable{System.Int32})">
+             <summary>
+            Return dataset containing data for the page number which will be passed as argument
+             </summary>
+             <param name="dataSet">Pass filled data set to convert in pages</param>
+             <param name="PerPage">Rows per page</param>
+             <param name="PageNo">Page Number you want to get</param>
+             <returns>Dataset containing data for the page number which will be passed as argument</returns>
+             <exception cref="T:PagedDataSet.IncorrectPageNoException"></exception>
+              <exception cref="T:PagedDataSet.EmptyDataSetException"></exception>
+        </member>
+        <member name="M:PagedDataSet.PagedDataSet.GetTotalPages">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException">Throw acception if this is called before getpage()</exception>
+        </member>
+    </members>
+</doc>

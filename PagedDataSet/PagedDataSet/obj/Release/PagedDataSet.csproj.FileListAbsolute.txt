@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\PagedDataSet\PagedDataSet\bin\Release\PagedDataSet.dll
+C:\Users\HP\source\repos\PagedDataSet\PagedDataSet\bin\Release\PagedDataSet.pdb
+C:\Users\HP\source\repos\PagedDataSet\PagedDataSet\obj\Release\PagedDataSet.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PagedDataSet\PagedDataSet\obj\Release\PagedDataSet.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PagedDataSet\PagedDataSet\obj\Release\PagedDataSet.dll
+C:\Users\HP\source\repos\PagedDataSet\PagedDataSet\obj\Release\PagedDataSet.pdb
+C:\Users\HP\source\repos\PagedDataSet\PagedDataSet\bin\Release\PagedDataSet.xml
